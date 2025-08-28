@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "Official Forest (EU)",
+      "apiUrl": "ws://crescent.thebigtree.life:8080",
+      "cdnUrl": "ws://crescent.thebigtree.life:8080",
+      "notes": "Forest Server"
+    },
+    {
+      "name": "Community (US-West)",
+      "apiUrl": "https://usw.example.net",
+      "cdnUrl": "https://cdn.usw.example.net",
+      "notes": "Community-run"
+    }
+  ]
+}
